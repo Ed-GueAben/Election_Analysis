@@ -9,7 +9,7 @@ The yearly retunr is the percentage increase or decrese in price from the beggin
 
 ![VBA_C2_2017stock](Resorces/VBA_C2_2017stock.png)
 
-![VBA_C2_2018stock](VBA_C2_2018stock.png)
+![VBA_C2_2018stock](Resources/VBA_C2_2018stock.png)
 
 I recomend to invest in RUN stock.
 
