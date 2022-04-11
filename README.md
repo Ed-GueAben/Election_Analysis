@@ -18,3 +18,7 @@ Some of the advatages of recfatoring code is thata is takes less time and space.
 
 In the original code we run through all the lines looking for the Ticker value. In the refectored and edited code we dont have to becuse we increase the number of the ticker when it does not match the last ticker hence going to next ticker value with out running throught the other lines. There are les conditions in the if statement making it faster to go through the rows and getting the value. 
 
+Here are the times it took to run the macro
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
