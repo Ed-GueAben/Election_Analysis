@@ -7,7 +7,7 @@ Steve want to know how DQ perfomed, beacuse his parents want o invest. We calcul
 ### Analysis and Results
 The yearly retunr is the percentage increase or decrese in price from the begging of the year to the end of the year. The yearly retun for DQ stcok from 2017 and 2018 wasn't great so I might not recomend to invest in this stock. We can see the results of the yearly return and total daily volume.
 
-![VBA_C2_2017stock](Resorces/VBA_C2_2017stock.png)
+![VBA_C2_2017stock](Resources/VBA_C2_2017stock.png)
 
 ![VBA_C2_2018stock](Resources/VBA_C2_2018stock.png)
 
