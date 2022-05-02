@@ -15,7 +15,7 @@ There are 3 countys that voted
 -Arapahoe with 6.7%.(24,801)
 ![county_votes](Resources/county_votes.png)
 We can determine that Denver has the greater turnout for county voters. 
-![tunout](Resources/tunout.png)
+![turnout](Resources/tunout.png)
 
 Received Candidates votes: 
 -Charles Casper Stockham 23%
